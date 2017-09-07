@@ -1,4 +1,3 @@
-# css3-3D-
 <!DOCTYPE HTML>
 <html lang="en-US">
 <head>
@@ -171,10 +170,7 @@
 							</a></li>
 					</ul>
 				</li>
-				<li><a href="#" class="three-d">
-					Shop On-line
-					<span class="three-d-box"><span class="front">Shop On-line</span><span class="back">Shop On-line</span></span>
-				</a></li>
+				
 			</ul>
 		</div>
 	</section>
